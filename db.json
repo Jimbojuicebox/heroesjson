@@ -2,28 +2,33 @@
     "heroes":
     [
         {
-            "id": 1,
+            "id": "stitch",
             "name": "Stitch",
             "team": "Blue"
         },
         {
-            "id": 2,
+            "id": "zeus",
             "name": "Zeus",
             "team": "Blue"
         },
         {
-            "id": 3,
+            "id": "bolt",
             "name": "Bolt",
             "team": "Red"
         },
         {
-            "id": 4,
+            "id": "judy",
             "name": "Judy",
             "team": "Yellow"
         },
         {
-            "id": 5,
+            "id": "baymax",
             "name": "Baymax",
+            "team": "Red"
+        },
+        {
+            "id": "agent-p",
+            "name": "Agent P",
             "team": "Red"
         }
     ]    
