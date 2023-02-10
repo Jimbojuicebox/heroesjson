@@ -1,0 +1,31 @@
+{
+    "heroes":
+    [
+        {
+            "id": 1,
+            "name": "Stitch",
+            "team": "Blue"
+        },
+        {
+            "id": 2,
+            "name": "Zeus",
+            "team": "Blue"
+        },
+        {
+            "id": 3,
+            "name": "Bolt",
+            "team": "Red"
+        },
+        {
+            "id": 4,
+            "name": "Judy",
+            "team": "Yellow"
+        },
+        {
+            "id": 5,
+            "name": "Baymax",
+            "team": "Red"
+        }
+    ]    
+}
+
